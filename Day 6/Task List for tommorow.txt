@@ -1,0 +1,19 @@
+Race Condtion
+Syncronisation
+Core Java- without dessign pattern and Collection
+
+
+Methods in Exception class
+Use of construction s
+Polly, Inhretance ,
+Why extend runtime exception for custom exception-
+Compostion
+
+
+Date and Time , Stream , Method Reference , Fnctional Interfaec , Lambda Exp
+
+
+
+
+
+
